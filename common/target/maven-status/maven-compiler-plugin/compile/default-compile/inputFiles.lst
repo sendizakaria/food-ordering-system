@@ -1,0 +1,15 @@
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\CustomerId.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\OrderId.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\OrderStatus.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\ProductId.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\entity\BaseEntity.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\event\DomainEvent.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\event\publisher\DomainEventPublisher.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\PaymentStatus.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\PayementStatus.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\RestaurantId.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\OrderApprovalStatus.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
+D:\Projects\Microservices Clean Architecture DDD SAGA Outbox Kafka\food-ordering-system\common\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java
